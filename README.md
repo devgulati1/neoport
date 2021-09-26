@@ -1,5 +1,5 @@
 # neoport
-this is my neoportfolio
+this is my neogportfolio
 
 
 #Demo 
